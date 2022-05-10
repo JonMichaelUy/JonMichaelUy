@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Im Mike Uy, a Clinical Laboratory Scientist 👨‍🔬 turned Software Engineer 👨‍💻.  Im currently a Software Engineering student at General Assembly where I'm learning skills such as JavaScript, React, NodeJS, etc
+
+Please see my repo list to see what I've been workin on!
+
+Im interested in biotech, healtchare and finance and hope to work in those spaces where i can continue to grow as a software developer, while helping to connect people with technology.
+
+When I'm not coding you can usually find me out back taking care of my plants 🌺🌱 and taking photos of backyard birds, bugs and animals 🦜🦊🪲.  follow me on insta https://www.instagram.com/mikeinboston/
+
+
+
 <!--
 **JonMichaelUy/JonMichaelUy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
